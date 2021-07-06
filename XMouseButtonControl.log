@@ -1,0 +1,103 @@
+
+*******************************************************************************************************************************************
+06-07-2021 22:50:27.805> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+06-07-2021 22:50:27.828> Running in medium integrity mode (0x00002000)
+06-07-2021 22:50:27.829> Unable to find the default settings file 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' (Error code 2: 系统找不到指定的文件。 )
+06-07-2021 22:50:27.829> HookDLL: Unable to load XML settings
+06-07-2021 22:50:27.829> Running on Microsoft Windows 10 Professional Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+06-07-2021 22:50:27.830> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+06-07-2021 22:50:27.830> Startup folder: 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:50:27.830> Enabling portable mode.
+06-07-2021 22:50:27.830> Creating/using settings file in 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:50:27.830> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+06-07-2021 22:50:27.968> HookThreadProc[0x18FC]: Unable to find suitable English keyboard layout...
+06-07-2021 22:50:27.968> HookThreadProc[0x18FC]: Use of US English has been disabled. Some keyboard input functions may not work.
+06-07-2021 22:50:43.272> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+06-07-2021 22:50:43.288> Unable to find the default settings file 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' (Error code 2: 系统找不到指定的文件。 )
+06-07-2021 22:50:43.288> SetupDialog: Settings file 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' does not exist!
+06-07-2021 22:50:43.469> GetLayerName: Layer 0 does not exist or has no name!
+06-07-2021 22:50:43.469> GetLayerName: Layer 0 does not exist or has no name!
+06-07-2021 22:50:43.469> GetLayerName: Layer 0 does not exist or has no name!
+06-07-2021 22:50:43.469> GetLayerName: Layer 0 does not exist or has no name!
+06-07-2021 22:50:43.475> GetLayerName: Layer 1 does not exist or has no name!
+06-07-2021 22:50:43.475> GetLayerName: Layer 1 does not exist or has no name!
+06-07-2021 22:50:43.475> GetLayerName: Layer 1 does not exist or has no name!
+06-07-2021 22:50:43.475> GetLayerName: Layer 1 does not exist or has no name!
+06-07-2021 22:50:50.800> Applying changes to X-Mouse Button Control settings...
+06-07-2021 22:50:50.801> Unable to find the default settings file 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' (Error code 2: 系统找不到指定的文件。 )
+06-07-2021 22:50:50.801> SetupDialog: Settings file 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml' does not exist!
+06-07-2021 22:50:50.801> There is no existing settings file. Attempting to creating a new one.
+06-07-2021 22:50:50.801> GetLayerName: Layer 2 does not exist or has no name!
+06-07-2021 22:50:50.801> GetLayerName: Layer 3 does not exist or has no name!
+06-07-2021 22:50:50.801> GetLayerName: Layer 4 does not exist or has no name!
+06-07-2021 22:50:50.801> GetLayerName: Layer 5 does not exist or has no name!
+06-07-2021 22:50:50.802> GetLayerName: Layer 6 does not exist or has no name!
+06-07-2021 22:50:50.802> GetLayerName: Layer 7 does not exist or has no name!
+06-07-2021 22:50:50.802> GetLayerName: Layer 8 does not exist or has no name!
+06-07-2021 22:50:50.802> GetLayerName: Layer 9 does not exist or has no name!
+06-07-2021 22:50:50.817> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:50:50.847> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+06-07-2021 22:50:50.850> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:50:53.887> Exit requested by the user.
+06-07-2021 22:50:53.930> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+06-07-2021 22:50:59.735> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+06-07-2021 22:50:59.754> Running in medium integrity mode (0x00002000)
+06-07-2021 22:50:59.754> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:50:59.755> Running on Microsoft Windows 10 Professional Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+06-07-2021 22:50:59.755> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+06-07-2021 22:50:59.755> Startup folder: 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:50:59.755> Enabling portable mode.
+06-07-2021 22:50:59.755> Creating/using settings file in 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:50:59.755> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+06-07-2021 22:50:59.885> HookThreadProc[0x3C10]: Unable to find suitable English keyboard layout...
+06-07-2021 22:50:59.885> HookThreadProc[0x3C10]: Use of US English has been disabled. Some keyboard input functions may not work.
+06-07-2021 22:51:06.383> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+06-07-2021 22:51:06.425> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:51:17.486> Applying changes to X-Mouse Button Control settings...
+06-07-2021 22:51:17.500> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:51:20.115> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+06-07-2021 22:51:20.123> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:51:25.117> You are using the latest available version of X-Mouse Button Control.
+06-07-2021 22:51:52.236> Exit requested by the user.
+06-07-2021 22:51:52.299> X-Mouse Button Control Shutdown.
+
+
+*******************************************************************************************************************************************
+06-07-2021 22:51:59.370> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+06-07-2021 22:51:59.396> Running in medium integrity mode (0x00002000)
+06-07-2021 22:51:59.397> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:51:59.397> Running on Microsoft Windows 10 Professional Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+06-07-2021 22:51:59.397> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+06-07-2021 22:51:59.397> Startup folder: 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:51:59.397> Enabling portable mode.
+06-07-2021 22:51:59.397> Creating/using settings file in 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:51:59.397> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+06-07-2021 22:51:59.534> HookThreadProc[0x449C]: Unable to find suitable English keyboard layout...
+06-07-2021 22:51:59.534> HookThreadProc[0x449C]: Use of US English has been disabled. Some keyboard input functions may not work.
+06-07-2021 22:52:01.873> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+06-07-2021 22:52:01.904> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:53:59.617> You are using the latest available version of X-Mouse Button Control.
+06-07-2021 22:54:37.201> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+06-07-2021 22:54:37.207> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:54:42.209> You are using the latest available version of X-Mouse Button Control.
+
+*******************************************************************************************************************************************
+06-07-2021 22:55:29.219> X-Mouse Button Control v2.19.2 (x64) Startup. Commandline ''
+06-07-2021 22:55:29.252> Running in medium integrity mode (0x00002000)
+06-07-2021 22:55:29.253> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:55:29.253> Running on Microsoft Windows 10 Professional Edition (build 19042), 64-bit, Hook Timeout: 200 ms
+06-07-2021 22:55:29.253> Warning: Low Level Hook Timeout is low. If you have problems try increasing this value.
+06-07-2021 22:55:29.253> Startup folder: 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:55:29.253> Enabling portable mode.
+06-07-2021 22:55:29.253> Creating/using settings file in 'H:\我的小程序\鼠标便捷\XMouseButtonControl 2.19.2 Portable\64bit (x64)\XMBCSettings.xml'
+06-07-2021 22:55:29.253> As X-Mouse Button Control is not running from an OS protected location (such as 'C:\Program Files\') some features will not work. See the FAQ for more information.
+06-07-2021 22:55:29.386> HookThreadProc[0x40DC]: Unable to find suitable English keyboard layout...
+06-07-2021 22:55:29.386> HookThreadProc[0x40DC]: Use of US English has been disabled. Some keyboard input functions may not work.
+06-07-2021 22:55:33.272> CMyMessageWnd::OnSetup   -   Opening setup dialog.
+06-07-2021 22:55:33.308> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:55:35.535> CMyMessageWnd::OnSetup   -   Setup dialog closed.
+06-07-2021 22:55:35.543> Loaded 0 application specific profiles (0 normal and 0 custom window).
+06-07-2021 22:55:40.547> You are using the latest available version of X-Mouse Button Control.
